@@ -23,6 +23,7 @@ Geeetech | A30 / E180 / 30
 ## Smartto Tool
 
 You can get stable and legacy versions of firmware from [here](http://geeetech.com/firmware/) and [here](https://github.com/Geeetech3D/Smartto-IAR/tree/master/log/firmware_changelog.md) for changelog.
+Attention: Character 'S' in name of bin file(such as A30_APP_S_V1.38.61.bin) means "Slave Device" and 'M' for "Master Device.
 
 ### Platform--Windows
 <div align=center><img src="https://raw.githubusercontent.com/geeetech3d/smartto-iar/master/docs/assets/motor_tool_snapshot.png" width="400" height="400" alt="motor-tool-usage" /></div>
