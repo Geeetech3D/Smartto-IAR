@@ -4,6 +4,18 @@
 
 ### Latest Version
 
+#### A30_V1.39.62
+
+##### New features
+Support command M500 to store user settings(set by M201/M203...)
+
+##### Bug fixes
+1. Fixed axis moving error when turn on/off autoleveling
+2. Fixed wrong screen display when operating the filament detective switch
+3. Fixed machine auto-reset when printing though sd card
+
+### Legacy Version
+
 #### A30_V1.38.61
 
 ##### New features
@@ -12,8 +24,6 @@
 
 ##### Bug fixes
 Fixed auto leveling re-printing problems
-
-### Legacy Version
 
 #### A30_V1.37.60
 
