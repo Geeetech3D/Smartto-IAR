@@ -35,3 +35,15 @@ Made automatic leveling compatible with 3D Touch and Capacitor proximity switch
 2. Changed the maximum value of printing rate from 200 to 999
 3. It will not display the total layer count when the printer can not get the data.(instead of showing 0)
 4. Fixed some problems about automatic leveling and continuation
+
+## E180
+
+### Latest Version
+
+#### E180_V1.33.42
+
+##### New features
+Support command M2202(get parameters of feedrate/acceleration/jerk)
+
+##### Bug fixes
+Fixed machine auto-reset when printing though sd card
