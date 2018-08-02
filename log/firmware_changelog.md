@@ -2,7 +2,11 @@
 
 ## A30
 
-### Latest Version
+### Stable Version
+
+#### A30_V1.35.56
+
+### Latest Version(not test)
 
 #### A30_V1.39.62
 
