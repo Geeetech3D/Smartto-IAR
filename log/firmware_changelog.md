@@ -7,8 +7,8 @@
 #### A30_V1.35.56
 
 ##### Hash(MD5)
-**A30_APP_S_V1.35.56.bin**: **9e61b5b77a02ee5dd4698edc841b34a0**
-**A30_APP_M_V1.35.56.bin**: **922d3a3317d9b26d3ee145753ff2c6fd**
+**A30_APP_S_V1.35.56.bin**: `9e61b5b77a02ee5dd4698edc841b34a0` \
+**A30_APP_M_V1.35.56.bin**: `922d3a3317d9b26d3ee145753ff2c6fd`
 
 ### Latest Version(not test)
 
@@ -51,8 +51,8 @@ Made automatic leveling compatible with 3D Touch and Capacitor proximity switch
 #### E180_V1.32.41
 
 ##### Hash(MD5)
-**E180_APP_S_V1.32.41.bin**: **c815f85f17e40b4e23d69e0205341a6c**
-**E180_APP_M_V1.32.41.bin**: **703a08af1da9a25b9232c5c33ad1e250**
+**E180_APP_S_V1.32.41.bin**: `c815f85f17e40b4e23d69e0205341a6c` \
+**E180_APP_M_V1.32.41.bin**: `703a08af1da9a25b9232c5c33ad1e250`
 
 ### Latest Version
 
