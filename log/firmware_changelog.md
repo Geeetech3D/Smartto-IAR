@@ -10,7 +10,16 @@
 **A30_APP_S_V1.35.56.bin**: `9e61b5b77a02ee5dd4698edc841b34a0` \
 **A30_APP_M_V1.35.56.bin**: `922d3a3317d9b26d3ee145753ff2c6fd`
 
-### Latest Version(not test)
+### Latest Version
+
+#### A30_V1.36.57
+
+##### Hash(MD5)
+**A30_M_LCD_V1_36.bin**: `D785EA0FA3F29FEDC3069ED5BCF9D700` \
+**A30_S_VD_V1_57.bin**: `D6A374860AB240AF01101FBB69828B70`
+
+
+### Legacy Version
 
 #### A30_V1.39.62
 
@@ -21,8 +30,6 @@ Support command M500 to store user settings(set by M201/M203...)
 1. Fixed axis moving error when turn on/off autoleveling
 2. Fixed wrong screen display when operating the filament detective switch
 3. Fixed machine auto-reset when printing though sd card
-
-### Legacy Version
 
 #### A30_V1.38.61
 
