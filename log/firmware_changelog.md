@@ -18,6 +18,24 @@
 **A30_M_LCD_V1_36.bin**: `D785EA0FA3F29FEDC3069ED5BCF9D700` \
 **A30_S_VD_V1_57.bin**: `D6A374860AB240AF01101FBB69828B70`
 
+##### New features
+1. Add control interface to A30 series new motherboard (GTM_PRO_VD, hardware version number > 3.1), and backward compatible with A30 old version (GTM32_MINI_S)
+2. Add upgrading error handling mechanism
+
+##### Bug fixes
+1. Fixed forced pause during printing when Z hop > 0.5mm (the Z hop limit is changed to < 5mm)
+2. Fixed printer unable to connect to Cura
+3. Fixed unstable printing through serial port in S3D
+4. Fixed printer repeated restart caused by the serial port module
+5. Fixed slowly response from screen (Optimize and rectify the communication protocol between the motherboard and the LCD Display)
+6. Fixed interface operation problems (Such as no response from half LCD screen)
+4. Fixed Automatic Leveling
+5. Fixed the stucking in powered on/printing;
+7. Fixed the abnormal operation caused by the exception threw by printing-continuously checking during printing;
+8. Handled the exceptions threw by Material Detection
+9. Fixed the scraping occured in the homing process
+10. Modified the framework code to increase stability of processing
+11. Fixed bugs in legacy code
 
 ### Legacy Version
 
