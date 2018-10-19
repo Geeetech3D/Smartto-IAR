@@ -4,7 +4,17 @@
 
 ### Latest Version
 
-#### A30_V1.36.57(Stable)
+#### A30_V1.37.58(Stable, 3D Touch Enabled)
+
+##### Hash(MD5)
+**A30_M_LCD_V1_37.bin**: `FDF16B6AE8A2EE8DC4D52A735CC060B8` \
+**A30_VD_S_V1_58.bin**: `FEAC6B4DAC9C3FA47B5FF448D53E8833`
+
+###### New features
+1. Add 3D Touch interface recognition in auto leveling function to complete backward compatibility with the old version one that only supports the capacitive proximity sensor
+2. Repair printer restarting caused by consecutively receiving null characters on the motherboard serial port
+
+#### A30_V1.36.57(Stable, 3D Touch Disabled)
 
 ##### Hash(MD5)
 **A30_M_LCD_V1_36.bin**: `D785EA0FA3F29FEDC3069ED5BCF9D700` \
